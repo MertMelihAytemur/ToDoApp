@@ -1,6 +1,16 @@
 # To-Do App 
-
-Contents
+## Content
+1) Retofit
+2) GSON
+3) Coil
+4) Zoom RecyclerView
+5) OkHttp
+6) Lifecycle & Kotlin Components
+7) Navigation
+8) ViewModel / LiveData
+9) Coroutines
+10) Repository
+11) Room Database
 
 
 ![image](https://user-images.githubusercontent.com/55717182/175182877-407f94e1-8c78-4908-95c5-4b16b643d476.png)
